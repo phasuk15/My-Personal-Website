@@ -16,7 +16,7 @@ const Nike = () => {
         <section className='padding'>
             <SuperQuality/>
         </section>
-        <section className='padding'>
+        <section className='padding-x py-10'>
             <Services/>
         </section>
         <section className='padding'>
