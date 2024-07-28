@@ -33,7 +33,6 @@ export const SpecialOffers = () => {
           />
         </div>
       </div>
-      
     </section>
   )
 }
